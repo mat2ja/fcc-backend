@@ -1,7 +1,3 @@
 [submodule "fcc-timestamp-service"]
 	path = fcc-timestamp-service
 	url = https://github.com/mat2ja/fcc-timestamp-service
-
-[submodule "fcc-headerparser"]
-	path = fcc-headerparser
-	url = https://github.com/mat2ja/fcc-headerparser
